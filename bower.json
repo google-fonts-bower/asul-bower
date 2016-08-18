@@ -1,0 +1,17 @@
+{
+    "name": "asul-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Mariela Monsalve"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/asul-bower.git"
+    },
+    "description": "Asul font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
